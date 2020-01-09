@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Entities>
+  <Entity Name="Filter.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/30/2019 16:54:27</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="FullLoginSyteLine.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/02/2020 08:33:05</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="TaskKill_WinStudio.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/02/2020 08:32:58</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SelecionarFormulario.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/19/2019 10:17:16</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="FillForm.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/11/2019 14:04:45</Property>
+      <Property Name="RunDuration">00:00:26</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Main.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/19/2019 10:15:22</Property>
+      <Property Name="RunDuration">00:00:37</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="AltaDePedidos_IQbot_ReadPDFs.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/27/2019 13:28:06</Property>
+      <Property Name="RunDuration">00:10:14</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ReadExcelFiles.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/19/2019 10:56:11</Property>
+      <Property Name="RunDuration">00:00:16</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SelecionarFormularioOrdenes.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/30/2019 16:54:24</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="Process_Order.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/08/2020 09:06:28</Property>
+      <Property Name="RunDuration">00:00:02</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="SaveEmails.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/23/2019 16:16:52</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="ClickOkWarning.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/30/2019 12:15:22</Property>
+      <Property Name="RunDuration">00:00:01</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="BuscarCliente.atmx">
+    <Properties>
+      <Property Name="LastRunTime">12/30/2019 16:54:31</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+</Entities>

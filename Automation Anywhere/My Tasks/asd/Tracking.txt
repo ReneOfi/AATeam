@@ -1,0 +1,18 @@
+Semana	Descripcion de lo realizado
+	2-6 Diciembre	
+-Lunes fue firma de contrato y los primeros dos dias introduccion. Despues del Miercoles se empezo a trabar en el project. Se realizo la parte del login y se termino el viernes.
+-El viernes despues de las 12 PM no se pudo continuar, ya que faltaba accesos a algunas partes de la plataforma. Se mando correo con los permisos faltantes.
+	9-13 Diciembre	
+-Se creo la parte de filtreo que filtra los resultados de las ordenes que se buscan de compra.
+-Se avanzo en la parte de busqueda de ordenes.
+-Se hizo un script para que me de la fecha del lunes de la semana, ya que las fechas de ordenes tienen que ser apartir del lunes. 
+-Se hizo el IQbot con 2 de los 3 documentos enviados. Solo falto codificar un poco el tercer documento pero esta casi terminado. Se tuve que dividir en dos estancias ya que el tercer doc era muy distinto.
+-Se creo exception handling para la gran mayoria de las actividades que pudieran fallar. 
+-Se trabajo en el llenado de la forma de ordenes de clientes con informacion de prueba y fue un exito. 
+-Se agrego ifs para los pop ups. Se junto la parte del login, de la seleccion de formulario y el llenado de formulario y el robot llega hasta esa parte sin falla alguna.
+	16-20 Diciembre
+-Se creo funcion para enviar correo
+-Se creo log file para dar informacion acerca de quien ejecuta el robot.
+-Se atoro en el projecto desde el dia 17 esperando informacion que tenia que ser enviada por parte de PCM.
+	23-27 Diciembre
+-Se creo funcion para leer todos los correos de oficajas y guardar los archivos adjuntos en una carpeta.
