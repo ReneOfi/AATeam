@@ -142,9 +142,9 @@
   </Entity>
   <Entity Name="OC LUZ EUGENIA.atmx">
     <Properties>
-      <Property Name="LastRunTime">01/28/2020 16:01:12</Property>
-      <Property Name="RunDuration">00:00:05</Property>
-      <Property Name="Status">Failed</Property>
+      <Property Name="LastRunTime">01/29/2020 14:46:59</Property>
+      <Property Name="RunDuration">00:00:10</Property>
+      <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="OC JUAN CARLOS LOPEZ.atmx">
@@ -152,6 +152,27 @@
       <Property Name="LastRunTime">01/28/2020 16:44:24</Property>
       <Property Name="RunDuration">00:00:09</Property>
       <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="OC ERIKA TREJO.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/29/2020 13:12:30</Property>
+      <Property Name="RunDuration">00:00:27</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="OC EMPACKUSA.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/29/2020 14:42:28</Property>
+      <Property Name="RunDuration">00:00:03</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="OC CORRUGADO LIBRA.atmx">
+    <Properties>
+      <Property Name="LastRunTime">01/29/2020 16:33:29</Property>
+      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
 </Entities>
